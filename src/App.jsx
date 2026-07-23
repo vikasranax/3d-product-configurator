@@ -11,7 +11,7 @@ function App() {
   })
 
   return (
-    <div className="relative w-screen h-screen overflow-hidden bg-primary">
+    <div className="relative w-screen h-screen overflow-hidden bg-[#0f172a]">
       <Scene config={config} />
       <ControlPanel config={config} onChange={setConfig} />
     </div>

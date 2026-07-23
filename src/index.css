@@ -1,11 +1,5 @@
 @import "tailwindcss";
 
-@theme {
-  --color-primary: #0f172a;
-  --color-accent: #3b82f6;
-  --color-surface: #1e293b;
-}
-
 body {
   margin: 0;
   overflow: hidden;
